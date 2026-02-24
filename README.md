@@ -1,13 +1,43 @@
-#  About Me:
-Howdy! I am a first-year engineering student interested in computer science and software engineering at the University of Texas A&M.<br>I focus on building solid fundamentals and writing clear, practical code.
+<div align="center">
 
-# Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethnmz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethan7714@tamu.edu) 
+# Ethan Meza
+*he / him*
 
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ethnmz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ethnmz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethnmz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+> First-year Engineering Student @ Texas A&M University 
+> Focusing on Computer Science & Software Engineering
 
+---
+
+### About Me
+
+I am passionate about building solid programming fundamentals and writing clear, practical code. As an aspiring software engineer, I am currently expanding my technical knowledge base and exploring ways to build efficient, real-world applications.
+
+<br/>
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-212121?style=flat-square&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-212121?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-212121?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-212121?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-212121?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Terminal-212121?style=flat-square&logo=windows-terminal" alt="Terminal" />
+</p>
+
+<br/>
+
+### Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethnmz&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8b949e&icon_color=white&rank_icon=white" alt="Ethan's GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:INSERT_YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-212121?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="INSERT_YOUR_INSTA_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-212121?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+</div>
