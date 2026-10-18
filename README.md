@@ -21,8 +21,8 @@ ethnmz ---------------------------------------------------------------
 
 <!-- START_STATS -->
 - GitHub Stats ----------------------------------------------------------------
-· Repos: .... 14 {Contributed: XX} | Stars: ....................... 2  
-· Commits: ................... XXXX | Followers: ................... 3 
+· Repos: .... 0  {Contributed: XX} | Stars: ....................... 0  
+· Commits: ................... XXXX | Followers: ................... 0 
 · Lines of Code: ........... XXXXXX ( XXXXXX++,     XXXXXX-- )
 
 <!-- END_STATS -->
