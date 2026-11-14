@@ -10,7 +10,7 @@ import time
 import requests
 
 USERNAME = "ethnmz"
-BIRTHDAY = dt.date(2006, 8, 13)  # drives the "Uptime" line
+BIRTHDAY = dt.date(2006, 9, 23)  # drives the "Uptime" line
 
 API = "https://api.github.com"
 BULK_WEEK = 20000
