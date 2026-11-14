@@ -117,11 +117,10 @@ def uptime(today=None):
 
 WIDTH = 70  # characters per text line
 
-# colors from the profile picture: an overcast sky, forested hills, and a cat with green eyes
-# and orange ears
+# GitHub's own Primer colors, so the card sits naturally on the profile page
 THEMES = {
-    "light": {"bg": "#e4e6e2", "edge": "#b7bcb5", "key": "#3f6233", "val": "#2b2a2a", "dots": "#b3b9b0", "add": "#5c8f3a", "del": "#c46a3c"},
-    "dark": {"bg": "#1d241d", "edge": "#384435", "key": "#9ccb78", "val": "#dfe2dc", "dots": "#3b4738", "add": "#9ccb78", "del": "#e8945f"},
+    "light": {"bg": "#f6f8fa", "edge": "#d0d7de", "key": "#0969da", "val": "#1f2328", "dots": "#afb8c1", "add": "#1a7f37", "del": "#cf222e"},
+    "dark": {"bg": "#161b22", "edge": "#30363d", "key": "#58a6ff", "val": "#e6edf3", "dots": "#3d444d", "add": "#3fb950", "del": "#f85149"},
 }
 
 def esc(s):
